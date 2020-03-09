@@ -2,6 +2,8 @@
 
 An application containing book records for a store.
 
+![Screen of the app](https://github.com/MariuszGaljan/Book-Store-DB/blob/master/GUI.png)
+
 Every record contains four fields:
 * Title
 * Author
